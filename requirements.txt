@@ -1,1 +1,7 @@
-
+alpaca-py
+pandas
+numpy
+requests
+python-dotenv
+pytz
+schedule
